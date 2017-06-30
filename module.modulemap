@@ -1,0 +1,4 @@
+module jsmn {
+       header "jsmn.h"
+       export *
+}
